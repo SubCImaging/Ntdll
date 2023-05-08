@@ -1,0 +1,5 @@
+
+NtdllCrash/.vs/*
+NtdllCrash/obj/*
+NtdllCrash/bin/*
+NtdllCrash/*.pfx
